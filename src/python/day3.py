@@ -7,6 +7,7 @@ def num_of_digits(num):
         return 1
     return 1 + num_of_digits(numero // 10)
 
+
 # ➞ 4
 print(num_of_digits(1000))
 # ➞ 2
