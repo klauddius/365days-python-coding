@@ -2,10 +2,13 @@
 # Based on https://edabit.com/challenge/iqaQLvS7yfGR2wJyL
 
 def num_of_digits(num):
-    numero = int(abs(num))
-    if numero // 10 == 0:
+    if not type(num) == int:
+        raise TypeError
+
+    number_arg = abs(num)
+    if number_arg // 10 == 0:
         return 1
-    return 1 + num_of_digits(numero // 10)
+    return 1 + num_of_digits(number_arg // 10)
 
 
 # ➞ 4
