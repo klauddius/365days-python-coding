@@ -2,6 +2,9 @@
 # Based on https://edabit.com/challenge/stAFzKqQnWHztzrAW
 
 def add_nums(nums_in_string):
+    if not nums_in_string or nums_in_string.isspace():
+        return 0
+
     separator = ', '
     list_nums = nums_in_string.split(separator)
     sum = 0
