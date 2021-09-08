@@ -20,3 +20,4 @@ internet and mentioned in the list below.
 * (003/365) [Find Number of Digits in Number](https://edabit.com/challenge/iqaQLvS7yfGR2wJyL)
 * (004/365) [How Many D's Are There?](https://edabit.com/challenge/xdSKkXQkkMroNzq8C)
 * (005/365) [Probability (Part 1)](https://edabit.com/challenge/LMjficQtWW36a3by3)
+* (006/365) [Numbers to Arrays and Vice Versa](https://edabit.com/challenge/L9nvCobbYyGgKpWi8)
