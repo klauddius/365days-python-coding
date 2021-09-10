@@ -15,10 +15,13 @@ internet and mentioned in the list below.
 
 ## List of Exercises
 
-* (001/365) [Return the sum of Two Numbers](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
-* (002/365) [Adding Numbers from a String](https://edabit.com/challenge/stAFzKqQnWHztzrAW)
-* (003/365) [Find Number of Digits in Number](https://edabit.com/challenge/iqaQLvS7yfGR2wJyL)
-* (004/365) [How Many D's Are There?](https://edabit.com/challenge/xdSKkXQkkMroNzq8C)
-* (005/365) [Probability (Part 1)](https://edabit.com/challenge/LMjficQtWW36a3by3)
-* (006/365) [Numbers to Arrays and Vice Versa](https://edabit.com/challenge/L9nvCobbYyGgKpWi8)
-* (007/365) [Area of a Triangle](https://edabit.com/challenge/aWLTzrRsrw7RakYrN) 
+|Day|Exercise|Solution|
+|:---:|:---|:---:|
+| (001/365) | [Return the sum of Two Numbers](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j) | [Solution](src/python/day1.py)  |
+| (001/365) | [Return the sum of Two Numbers](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j) | [Solution](src/python/day1.py)  |
+| (002/365) | [Adding Numbers from a String](https://edabit.com/challenge/stAFzKqQnWHztzrAW) | [Solution](src/python/day2.py)  |
+| (003/365) | [Find Number of Digits in Number](https://edabit.com/challenge/iqaQLvS7yfGR2wJyL) | [Solution](src/python/day3.py)  |
+| (004/365) | [How Many D's Are There?](https://edabit.com/challenge/xdSKkXQkkMroNzq8C) | [Solution](src/python/day4.py)  |
+| (005/365) | [Probability (Part 1)](https://edabit.com/challenge/LMjficQtWW36a3by3) | [Solution](src/python/day5.py)  |
+| (006/365) | [Numbers to Arrays and Vice Versa](https://edabit.com/challenge/L9nvCobbYyGgKpWi8) | [Solution](src/python/day6.py)  |
+| (007/365) | [Area of a Triangle](https://edabit.com/challenge/aWLTzrRsrw7RakYrN) | [Solution](src/python/day7.py)  |
