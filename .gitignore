@@ -130,3 +130,6 @@ dmypy.json
 
 # Removing idea files
 .idea/
+
+# Removing vscode files
+.vscode/
