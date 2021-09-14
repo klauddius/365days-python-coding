@@ -26,3 +26,4 @@ internet and mentioned in the list below.
 | (006/365) | [Numbers to Arrays and Vice Versa](https://edabit.com/challenge/L9nvCobbYyGgKpWi8) | [Solution](src/python/day6.py)  |
 | (007/365) | [Area of a Triangle](https://edabit.com/challenge/aWLTzrRsrw7RakYrN) | [Solution](src/python/day7.py)  |
 | (008/365) | [Convert Minutes into Seconds](https://edabit.com/challenge/FQyaaJx7orS7tiwz8) | [Solution](src/python/day8.py)  |
+| (009/365) | [Maximum Edge of a Triangle](https://edabit.com/challenge/Zerwo2AENbvRZTe83) | [Solution](src/python/day9.py)  |
