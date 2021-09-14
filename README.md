@@ -29,3 +29,4 @@ internet and mentioned in the list below.
 | (009/365) | [Maximum Edge of a Triangle](https://edabit.com/challenge/Zerwo2AENbvRZTe83) | [Solution](src/python/day9.py)  |
 | (010/365) | [Find the Mean of All Digits](https://edabit.com/challenge/BZ4mMcEz3aqosEtbC) | [Solution](src/python/day10.py)  |
 | (011/365) | [Stuttering Function](https://edabit.com/challenge/gt9LLufDCMHKMioh2) | [Solution](src/python/day11.py)  |
+| (012/365) | [Profit Margin](https://edabit.com/challenge/st8HBr2HMup6mD6z5) | [Solution](src/python/day12.py)  |
