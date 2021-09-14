@@ -1,3 +1,6 @@
+# Find the Mean of All Digits
+# Based on https://edabit.com/challenge/BZ4mMcEz3aqosEtbC
+
 def mean(num):
     negative = False
     if num < 0:
