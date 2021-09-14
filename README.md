@@ -28,3 +28,4 @@ internet and mentioned in the list below.
 | (008/365) | [Convert Minutes into Seconds](https://edabit.com/challenge/FQyaaJx7orS7tiwz8) | [Solution](src/python/day8.py)  |
 | (009/365) | [Maximum Edge of a Triangle](https://edabit.com/challenge/Zerwo2AENbvRZTe83) | [Solution](src/python/day9.py)  |
 | (010/365) | [Find the Mean of All Digits](https://edabit.com/challenge/BZ4mMcEz3aqosEtbC) | [Solution](src/python/day10.py)  |
+| (011/365) | [Stuttering Function](https://edabit.com/challenge/gt9LLufDCMHKMioh2) | [Solution](src/python/day11.py)  |
