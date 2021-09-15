@@ -31,5 +31,6 @@ internet and mentioned in the list below.
 | (011/365) | [Stuttering Function](https://edabit.com/challenge/gt9LLufDCMHKMioh2) | [Solution](src/python/day11.py)  |
 | (012/365) | [Profit Margin](https://edabit.com/challenge/st8HBr2HMup6mD6z5) | [Solution](src/python/day12.py)  |
 | (013/365) | [Capitalize the First Letter of Each Word](https://edabit.com/challenge/hxr3ZyPw2bZzrHEsf) | [Solution](src/python/day13.py)  |
+| (014/365) | [Sum of Resistance in Series Circuits](https://edabit.com/challenge/gzmFeaXwFv8X6pBGq) | [Solution](src/python/day14.py)  |
 
 
