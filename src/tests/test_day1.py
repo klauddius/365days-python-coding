@@ -2,7 +2,7 @@ import day1
 
 
 def test_sum_with_positive_integers():
-    assert day1.addition(2,4) == 6
+    assert day1.addition(2, 4) == 6
 
 
 def test_sum_with_negative_integers():
@@ -19,5 +19,3 @@ def test_sum_with_positive_floats():
 
 def test_sum_with_negative_floats():
     assert day1.addition(-3.43, -1.15) == -4.58
-
-

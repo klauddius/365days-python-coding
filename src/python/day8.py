@@ -1,6 +1,7 @@
 # Convert Minutes into Seconds
 # Based on https://edabit.com/challenge/FQyaaJx7orS7tiwz8
 
+
 def convert(minutes: int):
     return minutes * 60
 

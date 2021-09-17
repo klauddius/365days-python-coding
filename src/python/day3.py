@@ -1,6 +1,7 @@
 # Find Number of Digits in Number
 # Based on https://edabit.com/challenge/iqaQLvS7yfGR2wJyL
 
+
 def num_of_digits(num):
     if not type(num) == int:
         raise TypeError

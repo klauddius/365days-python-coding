@@ -12,4 +12,3 @@ def test_convert_minute_one():
 
 def test_convert_negative_minutes():
     assert day8.convert(-3) == -180
-

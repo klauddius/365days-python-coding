@@ -1,6 +1,7 @@
 import day14
 import random
 
+
 def test_series_resistance_empty_list():
     assert day14.series_resistance(list()) == "0 ohm"
 
@@ -18,7 +19,7 @@ def test_series_resistance_three_args_in_list():
 
 
 def test_series_resistance_resulting_in_less_than_one():
-    assert day14.series_resistance([0.5, 0.5]) == '1.0 ohm'
+    assert day14.series_resistance([0.5, 0.5]) == "1.0 ohm"
 
 
 def test_examples_from_site():

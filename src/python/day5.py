@@ -2,6 +2,7 @@
 #
 # Based on https://edabit.com/challenge/LMjficQtWW36a3by3
 
+
 def probability(nums_list, arg_value):
     if len(nums_list) == 0:
         raise ValueError
@@ -12,8 +13,9 @@ def probability(nums_list, arg_value):
         if num >= arg_value:
             num_favourable_outcomes += 1
 
-    probability_percentage = round(100 * num_favourable_outcomes /
-                                   total_num_possibles_outcomes, 1)
+    probability_percentage = round(
+        100 * num_favourable_outcomes / total_num_possibles_outcomes, 1
+    )
     return probability_percentage
 
 

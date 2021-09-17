@@ -19,7 +19,6 @@ def test_next_edge_negative_integers_wrong_args():
         day9.next_edge(-1, -1)
 
 
-
 def test_next_edge_success_example4():
     assert day9.next_edge(5, 4) == 8
 
@@ -38,4 +37,3 @@ def test_next_edge_success_example7():
 
 def test_next_edge_success_example8():
     assert day9.next_edge(7, 2) == 8
-

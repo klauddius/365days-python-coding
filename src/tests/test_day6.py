@@ -7,7 +7,7 @@ def test_to_list_number_zero():
 
 
 def test_to_list_negative_number():
-    assert day6.to_list(-123) == ['-', 1, 2, 3]
+    assert day6.to_list(-123) == ["-", 1, 2, 3]
 
 
 def test_to_list_positive_number():
@@ -16,7 +16,7 @@ def test_to_list_positive_number():
 
 def test_to_list_wrong_arg():
     with pytest.raises(TypeError):
-        day6.to_list('test')
+        day6.to_list("test")
 
 
 def test_to_number_empty_list():
@@ -26,15 +26,22 @@ def test_to_number_empty_list():
 
 def test_to_number_list_with_invalid_items():
     with pytest.raises(TypeError):
-        day6.to_number(['t', 'e', 's', 't'])
+        day6.to_number(["t", "e", "s", "t"])
 
 
 def test_to_number_list_number_zero():
-    assert day6.to_number([0, ]) == 0
+    assert (
+        day6.to_number(
+            [
+                0,
+            ]
+        )
+        == 0
+    )
 
 
 def test_to_number_list_negative_number():
-    assert day6.to_number(['-', 1, 2, 3]) == -123
+    assert day6.to_number(["-", 1, 2, 3]) == -123
 
 
 def test_to_number_list_positive_number():
