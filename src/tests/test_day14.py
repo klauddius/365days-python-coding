@@ -1,5 +1,4 @@
 import day14
-import random
 
 
 def test_series_resistance_empty_list():
