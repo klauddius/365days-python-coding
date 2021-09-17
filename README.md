@@ -1,5 +1,7 @@
 # 365 Days Coding in Python
 
+[![Lint](https://github.com/klauddius/365days-python-coding/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/klauddius/365days-python-coding/actions/workflows/lint.yml)
+
 ## Context and Scope
 
 As a lifelong learner, I started learning Python to get proficient in using this language. One best way to learn 
