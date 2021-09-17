@@ -3,8 +3,9 @@
 
 
 def unique(lst_numbers):
-    unique_lst = [number for number in lst_numbers if lst_numbers.count(number)
-                  == 1]
+    unique_lst = [
+        number for number in lst_numbers if lst_numbers.count(number) == 1
+    ]
     if len(unique_lst) == 0:
         raise ValueError
 
