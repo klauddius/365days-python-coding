@@ -20,7 +20,6 @@ internet and mentioned in the list below.
 |Day|Exercise|Solution|
 |:---:|:---|:---:|
 | (001/365) | [Return the sum of Two Numbers](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j) | [Solution](src/python/day1.py)  |
-| (001/365) | [Return the sum of Two Numbers](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j) | [Solution](src/python/day1.py)  |
 | (002/365) | [Adding Numbers from a String](https://edabit.com/challenge/stAFzKqQnWHztzrAW) | [Solution](src/python/day2.py)  |
 | (003/365) | [Find Number of Digits in Number](https://edabit.com/challenge/iqaQLvS7yfGR2wJyL) | [Solution](src/python/day3.py)  |
 | (004/365) | [How Many D's Are There?](https://edabit.com/challenge/xdSKkXQkkMroNzq8C) | [Solution](src/python/day4.py)  |
