@@ -34,5 +34,6 @@ internet and mentioned in the list below.
 | (013/365) | [Capitalize the First Letter of Each Word](https://edabit.com/challenge/hxr3ZyPw2bZzrHEsf) | [Solution](src/python/day13.py)  |
 | (014/365) | [Sum of Resistance in Series Circuits](https://edabit.com/challenge/gzmFeaXwFv8X6pBGq) | [Solution](src/python/day14.py)  |
 | (015/365) | [Which Number Is Not like the Others?](https://edabit.com/challenge/GaXXfmpM72yCHag9T) | [Solution](src/python/day15.py)  |
+| (016/365) | [Trace That Matrix](https://edabit.com/challenge/PGXeFPN6buQDXXwPm) | [Solution](src/python/day16.py)  |
 
 
