@@ -38,3 +38,4 @@ internet and mentioned in the list below.
 | (017/365) | [Neatly Formatted Math](https://edabit.com/challenge/3f2qF2CgM32zvQTwa) | [Solution](src/python/day17.py)  |
 | (018/365) | [Find the Odd Integer](https://edabit.com/challenge/9TcXrWEGH3DaCgPBs) | [Solution](src/python/day18.py)  |
 | (019/365) | [Determine If Two Numbers Add up to a Target Value](https://edabit.com/challenge/ncLp4ZXvz4x4oEHYh) | [Solution](src/python/day19.py)  |
+| (020/365) | [Sum of Two Digit Numbers](https://edabit.com/challenge/KT8ApJ2EJcLz4K3t2) | [Solution](src/python/day20.py)  |
