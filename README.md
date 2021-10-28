@@ -37,4 +37,4 @@ internet and mentioned in the list below.
 | (016/365) | [Trace That Matrix](https://edabit.com/challenge/PGXeFPN6buQDXXwPm) | [Solution](src/python/day16.py)  |
 | (017/365) | [Neatly Formatted Math](https://edabit.com/challenge/3f2qF2CgM32zvQTwa) | [Solution](src/python/day17.py)  |
 | (018/365) | [Find the Odd Integer](https://edabit.com/challenge/9TcXrWEGH3DaCgPBs) | [Solution](src/python/day18.py)  |
-
+| (019/365) | [Determine If Two Numbers Add up to a Target Value](https://edabit.com/challenge/ncLp4ZXvz4x4oEHYh) | [Solution](src/python/day19.py)  |
